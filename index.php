@@ -1,7 +1,16 @@
 <?php get_header(); ?>
-<!-- <h3>wordpress theme for lion.or.jp</h3> -->
-<div id="header_contents">
-	<div class="header">
-		<p class="logo"><a href="http://lion.or.jp/">風に立つライオン基金</a><span class="slogon">我々は大切なひとの笑顔を護るための「平和」について考え、活動します。</span></p>
-	</div>
-</div>
+
+<?php
+if(have_posts()) {
+	while(have_posts()) {
+			the_post();
+			_e("Category", 'lion');
+			the_category('&gt;', 'multiple');
+			?>
+			<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+					<?php the_post_thumbnail(small-thumbnail); ?>
+					<?php the_content(); ?>
+<?php
+	}
+}
+?>
