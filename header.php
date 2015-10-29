@@ -10,5 +10,8 @@
 </head>
 
 <body>
-  <h3><?php bloginfo('title'); ?></h3>
-  <h5><?php bloginfo('description'); ?></h5>
+  <div id="header_contents">
+    <div class="header">
+      <p class="logo"><a href="/index.html">風に立つライオン基金</a><span class="slogon">一人一人の小さな思いが、沢山の小さな生命を支えられることを信じます。</span></p>
+    </div>
+  </div>

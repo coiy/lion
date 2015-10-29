@@ -1,5 +1,13 @@
 <?php get_header(); ?>
-
+<div id="contents">
+	<div id="main_contents">
+		<div id="side_menu">
+			<div class="main_list pc">
+				<?php get_sidebar(); ?>
+			</div>
+		</div>
+	</div>
+</div>
 <?php
 if(have_posts()) {
 	while(have_posts()) {
@@ -14,3 +22,5 @@ if(have_posts()) {
 	}
 }
 ?>
+
+<?php get_footer(); ?>
