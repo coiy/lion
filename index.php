@@ -24,7 +24,7 @@
         <!-- /share_menu -->
         <div class="share_sp">
           <ul>
-            <li><a href="http://www.facebook.com/share.php?u=http://lion.or.jp/" onclick="window.open(this.href, 'FBwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes');return false;"><img src="./images/icon_facebook2.png" width="31px"/></a></li>
+            <li><a href="http://www.facebook.com/share.php?u=http://lion.or.jp/" onclick="window.open(this.href, 'FBwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes');return false;"><img src="http://lion.or.jp/testblog/images/icon_facebook2.png" width="31px"/></a></li>
             <li class="likebtn2">
               <div class="fb-share-button" data-href="https://www.facebook.com/%E4%B8%80%E8%88%AC%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA-%E9%A2%A8%E3%81%AB%E7%AB%8B%E3%81%A4%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E5%9F%BA%E9%87%91-1131646966864149/timeline/" data-layout="button_count"></div>
               <div id="fb-root"></div>
@@ -40,13 +40,13 @@ fjs.parentNode.insertBefore(js, fjs);
         </div>
         <!-- /btn_menu -->
         <!-- <div class="bannerarea_sp">
-          <a href="http://www.tokyu-dept.co.jp/toyoko/scramble/"><img src="./images/banner2.png" width="100%"/></a>
+          <a href="http://www.tokyu-dept.co.jp/toyoko/scramble/"><img src="http://lion.or.jp/testblog/images/banner2.png" width="100%"/></a>
         </div> -->
         <div class="menucompany_sp">
           <p>Copyright 一般財団法人 風に立つライオン基金　All Rights Reserved</p>
         </div>
       </div>
-      <div class="menusp_bar"><img src="../images/menusp_colorbar.png" width="100%"/></div>
+      <div class="menusp_bar"><img src="http://lion.or.jp/testblog/images/menusp_colorbar.png" width="100%"/></div>
       <!-- /Menu_box -->
   </div>
 </div>
@@ -56,9 +56,9 @@ fjs.parentNode.insertBefore(js, fjs);
   <div class="slide_all pc">
     <div class="slide_wrap">
       <div class="slide_body">
-        <div class="slide"><a href="/news/no151021.html"><img src="./images/slide2.png"></a></div>
-        <!-- <div class="slide"><a href=""><img src="./images/slide1.png"></a></div>
-        <div class="slide"><a href=""><img src="./images/slide1.png"></a></div> -->
+        <div class="slide"><a href="/news/no151021.html"><img src="http://lion.or.jp/testblog/images/slide2.png"></a></div>
+        <!-- <div class="slide"><a href=""><img src="http://lion.or.jp/testblog/images/slide1.png"></a></div>
+        <div class="slide"><a href=""><img src="http://lion.or.jp/testblog/images/slide1.png"></a></div> -->
       </div>
     </div>
   </div>
@@ -67,9 +67,9 @@ fjs.parentNode.insertBefore(js, fjs);
     <span id="slider-next"></span>
   </div> -->
   <ul class="sp">
-    <li><a href="/news/no151021.html"><img src="./images/slide2.png"></a></li>
-    <!-- <li><a href="/fashion/article.html"><img src="./images/slide1.png"></a></li> -->
-    <!-- <li><a href="/fashion/article.html"><img src="./images/slide1.png"></a></li> -->
+    <li><a href="/news/no151021.html"><img src="http://lion.or.jp/testblog/images/slide2.png"></a></li>
+    <!-- <li><a href="/fashion/article.html"><img src="http://lion.or.jp/testblog/images/slide1.png"></a></li> -->
+    <!-- <li><a href="/fashion/article.html"><img src="http://lion.or.jp/testblog/images/slide1.png"></a></li> -->
   </ul>
 </div>
 <!-- /Main Images -->
@@ -115,16 +115,7 @@ getDataList('content_wrap');
   <div id="side_menu">
     <!-- Menu List/ -->
     <div class="main_list pc">
-      <ul>
-        <li class="list_about"><a href="/about.html">風に立つライオン基金とは</a></li>
-        <li class="list_orga"><a href="/company.html">組織概要</a></li>
-        <li class="list_purpose"><a href="/purpose.html">事業目的</a></li>
-        <li class="list_contents"><a href="/comingsoon2.html">活動</a></li>
-        <li class="list_support"><a href="/donation/index.html">基金へのご支援</a></li>
-        <li class="list_blog"><a href="/comingsoon.html">メンバー募集</a></li>
-        <li class="list_community"><a href="/comingsoon2.html">風の広場</a></li>
-        <li class="list_ouendan"><a href="/comingsoon2.html">風の応援団</a></li>
-      </ul>
+        <?php get_sidebar(); ?>
     </div>
     <!-- /Menu List -->
     <!-- Pr space/ -->
@@ -150,7 +141,7 @@ getDataList('content_wrap');
     </script>
     <!-- /Facebook Box -->
     <div class="pr_space">
-      <a href="http://www.nagasakips.com/"><img src="./images/banner1.png" alt=""/></a>
+      <a href="http://www.nagasakips.com/"><img src="http://lion.or.jp/testblog/images/banner1.png" alt=""/></a>
     </div>
   </div>
   <!-- /Side menu -->

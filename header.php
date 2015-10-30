@@ -18,6 +18,6 @@
 <body>
   <div id="header_contents">
     <div class="header">
-      <p class="logo"><a href="/index.html">風に立つライオン基金</a><span class="slogon">一人一人の小さな思いが、沢山の小さな生命を支えられることを信じます。</span></p>
+      <p class="logo"><a href="http://lion.or.jp/testblog">風に立つライオン基金</a><span class="slogon">一人一人の小さな思いが、沢山の小さな生命を支えられることを信じます。</span></p>
     </div>
   </div>
