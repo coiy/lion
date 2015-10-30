@@ -110,7 +110,7 @@ li {
   width: 67px;
   font-size: 0px;
   overflow: hidden;
-  background: url(/kaze/images/logo.png) no-repeat;
+  background: url(./images/logo.png) no-repeat;
 }
 
 #header_contents .header .sns_list {
@@ -134,7 +134,7 @@ li {
 }
 
 #header_contents .header .sns_list li.facebook a {
-  background: url(/kaze/images/icon_facebook.png) no-repeat;
+  background: url(./images/icon_facebook.png) no-repeat;
 }
 
 #header_contents .header .search_box {
@@ -259,7 +259,7 @@ li {
   width: 40px;
   padding-top: 400px;
   overflow: hidden;
-  background: url(/kaze/images/arrow_prev.png) no-repeat center center;
+  background: url(./images/arrow_prev.png) no-repeat center center;
 }
 
 #main_images .control #slider-next {
@@ -272,8 +272,8 @@ li {
   width: 40px;
   padding-top: 400px;
   overflow: hidden;
-  background: url(/kaze/images/arrow_prev.png) no-repeat center center;
-  background: url(/kaze/images/arrow_next.png) no-repeat center center;
+  background: url(./images/arrow_prev.png) no-repeat center center;
+  background: url(./images/arrow_next.png) no-repeat center center;
 }
 
 /* Contents */
@@ -395,7 +395,7 @@ li {
   height: 0;
   width: 60px;
   padding-top: 60px;
-  background: url(/kaze/images/label_new.png) no-repeat;
+  background: url(./images/label_new.png) no-repeat;
   overflow: hidden;
 }
 
@@ -460,108 +460,108 @@ li {
 
 /******　メニューファッション　******/
 #side_menu .main_list .list_about a {
-  background: url(/kaze/images/menuicon1.png) no-repeat center #fff;
+  background: url(./images/menuicon1.png) no-repeat center #fff;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_about a:hover {
-  background: url(/kaze/images/menuicon1_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon1_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_about.now a {
-  background: url(/kaze/images/menuicon1.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon1.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_orga a {
-  background: url(/kaze/images/menuicon7.png) no-repeat center #fff;
+  background: url(./images/menuicon7.png) no-repeat center #fff;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_orga a:hover {
-  background: url(/kaze/images/menuicon7_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon7_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_orga.now a {
-  background: url(/kaze/images/menuicon7.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon7.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_purpose a {
-  background: url(/kaze/images/menuicon2.png) no-repeat center #fff;
+  background: url(./images/menuicon2.png) no-repeat center #fff;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_purpose a:hover {
-  background: url(/kaze/images/menuicon2_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon2_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_purpose.now a {
-  background: url(/kaze/images/menuicon2_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon2_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_contents a {
-  background: url(/kaze/images/menuicon3.png) no-repeat center #fff;
+  background: url(./images/menuicon3.png) no-repeat center #fff;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_contents a:hover {
-  background: url(/kaze/images/menuicon3_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon3_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_contents.now a {
-  background: url(/kaze/images/menuicon3_h.png) no-repeat left 14px center #e6e4d7;
+  background: url(./images/menuicon3_h.png) no-repeat left 14px center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_support a {
-  background: url(/kaze/images/menuicon4.png) no-repeat center #fff;
+  background: url(./images/menuicon4.png) no-repeat center #fff;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_support a:hover {
-  background: url(/kaze/images/menuicon4_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon4_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_support.now a {
-  background: url(/kaze/images/menuicon4_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon4_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_blog a {
-  background: url(/kaze/images/menuicon5.png) no-repeat center #fff;
+  background: url(./images/menuicon5.png) no-repeat center #fff;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_blog a:hover {
-  background: url(/kaze/images/menuicon5_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon5_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_blog.now a {
-  background: url(/kaze/images/menuicon5_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon5_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
   color: #000;
 }
 
 #side_menu .main_list .list_community a {
-  background: url(/kaze/images/menuicon6.png) no-repeat center #fff;
+  background: url(./images/menuicon6.png) no-repeat center #fff;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_community a:hover {
-  background: url(/kaze/images/menuicon6_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon6_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
 #side_menu .main_list .list_community.now a {
-  background: url(/kaze/images/menuicon6_h.png) no-repeat center #e6e4d7;
+  background: url(./images/menuicon6_h.png) no-repeat center #e6e4d7;
   background-position: 14px;
 }
 
@@ -732,7 +732,7 @@ li {
   height: 0;
   padding-top: 40px;
   overflow: hidden;
-  background: url(/kaze/images/btn_pagetop.png) no-repeat center center #ee1c21;
+  background: url(./images/btn_pagetop.png) no-repeat center center #ee1c21;
   border-radius: 4px 4px 0px 0px;
 }
 
@@ -741,7 +741,7 @@ li {
   text-align: center;
   height: 75px;
   font-size: 0px;
-  background: url(/kaze/images/loading.gif) no-repeat center;
+  background: url(./images/loading.gif) no-repeat center;
   margin-top: 30px;
   display: none;
   display: block\9;
@@ -1486,21 +1486,21 @@ li.likebtn {
 }
 
 .article .sns .article_sns li.article_facebook a, .article .information .article_sns li.article_facebook a {
-  background: url(/kaze/images/icon_facebook2.png) no-repeat;
+  background: url(./images/icon_facebook2.png) no-repeat;
   background-size: 60px;
   width: 61px;
   height: 61px;
 }
 
 .article .sns .article_sns li.article_twitter a, .article .information .article_sns li.article_twitter a {
-  background: url(/kaze/images/icon_twitter.png) no-repeat;
+  background: url(./images/icon_twitter.png) no-repeat;
   background-size: 60px;
   width: 61px;
   height: 61px;
 }
 
 .article .sns .article_sns li.article_hatena a {
-  background: url(/kaze/images/icon_hatena.png) no-repeat;
+  background: url(./images/icon_hatena.png) no-repeat;
   background-size: 60px;
   width: 61px;
   height: 61px;
@@ -1518,7 +1518,7 @@ li.likebtn {
 }
 
 .article .information .article_sns li.article_hatena a {
-  background: url(/kaze/images/icon_hatena.png) no-repeat;
+  background: url(./images/icon_hatena.png) no-repeat;
   background-size: 60px;
   width: 61px;
   height: 61px;

@@ -7,6 +7,12 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php wp_head(); ?>
+	<style type="text/css">
+	@charset "UTF-8";
+	:root {
+	  font-size: 62.5%;
+	}
+	</style>
 </head>
 
 <body>
