@@ -565,6 +565,21 @@ li {
   background-position: 14px;
 }
 
+#side_menu .main_list .list_ouendan a {
+  background: url(./images/menuicon8.png) no-repeat center #fff;
+  background-position: 14px;
+}
+
+#side_menu .main_list .list_ouendan a:hover {
+  background: url(./images/menuicon8_h.png) no-repeat center #e6e4d7;
+  background-position: 14px;
+}
+
+#side_menu .main_list .list_ouendan.now a {
+  background: url(./images/menuicon8_h.png) no-repeat center #e6e4d7;
+  background-position: 14px;
+}
+
 #side_menu .attention_word {
   background: #fff;
   margin-top: 3%;
